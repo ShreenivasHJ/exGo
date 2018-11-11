@@ -8,7 +8,7 @@ import (
 )
 
 /**
- * @api {get} /helloworld Request User information
+ * @api {get} / Request User information
  * @apiName Get
  *
  */
