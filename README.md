@@ -1,5 +1,5 @@
 # go sample
-A sample go microservice block for [kintohub](http://kintohub.com)
+A sample go microservice blocks for [kintohub](http://kintohub.com)
 
 It is using go `1.10.0`
 
