@@ -7,7 +7,7 @@ It is using go `1.10.0`
 * `go build main.go`
 
 # Run
-- `./main` will launch the server on port `80`
+- `./main` will launchs the server on port `80`
 
 # Run in docker
 - `docker build -t go-test .`
