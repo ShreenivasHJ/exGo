@@ -1,4 +1,4 @@
-# go sample
+# go samples
 A sample go microservice blocks for [kintohub](http://kintohub.com)
 
 It is using go `1.10.0`
